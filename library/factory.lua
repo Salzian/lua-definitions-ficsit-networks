@@ -1,0 +1,11 @@
+---@meta
+
+---@class Factory: FGBuildable
+---@field progress number
+---@field powerConsumProducing number
+---@field productivity number
+---@field cycleTime number
+---@field maxPotential number
+---@field minPotential number
+---@field standby boolean
+---@field potential number

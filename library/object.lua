@@ -1,0 +1,5 @@
+---@meta
+---@class Object
+---@field hash integer A Hash of this object. This is a value that nearly uniquely identifies this object.
+---@field internalName string The unreal engine internal name of this object.
+---@field internalPath string The unreal engine internal path name of this object.
